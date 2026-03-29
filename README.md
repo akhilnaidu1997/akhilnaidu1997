@@ -70,6 +70,8 @@
 
 ###
 
+---
+
 <h3 align="left">🔥   Git Stats :</h3>
 
 ###
