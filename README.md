@@ -81,7 +81,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilnaidu1997&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilnaidu1997&theme=github_dark" height="220" />
 </div>
 
 <div align="center">
