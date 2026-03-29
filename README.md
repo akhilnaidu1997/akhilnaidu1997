@@ -5,7 +5,7 @@
 🚀 DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform | IaC
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/manubalakhilnaidu/)
-[![Gmail](https://img.shields.io/badge/Email-you@gmail.com-red?logo=gmail&style=flat)](mailto:akhilnaid1997@gmail.com)
+[![Gmail](https://img.shields.io/badge/akhilnaid1997@gmail.com-red?logo=gmail&style=flat)](mailto:akhilnaid1997@gmail.com)
 
 ---
 
@@ -15,15 +15,15 @@
 
 ## 🧰 Tech Stack
 
-Cloud: AWS
-CI/CD: Jenkins, GitHub Actions
-Containers: Docker, Kubernetes (EKS)
-IaC: Terraform, Ansible
-Monitoring: Prometheus, Grafana, CloudWatch, Azure Monitor
-Security: SonarQube
-SCM: Git, GitHub
-OS: Linux (RHEL/Ubuntu), Windows
-Scripting: Bash, Shell, Python
+- Cloud: AWS
+- CI/CD: Jenkins, GitHub Actions
+- Containers: Docker, Kubernetes (EKS)
+- IaC: Terraform, Ansible
+- Monitoring: Prometheus, Grafana, CloudWatch, Azure Monitor
+- Security: SonarQube
+- SCM: Git, GitHub
+- OS: Linux (RHEL/Ubuntu), Windows
+- Scripting: Bash, Shell, Python
 
 ---
 
