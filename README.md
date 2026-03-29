@@ -80,6 +80,10 @@
   <img src="https://streak-stats.demolab.com?user=akhilnaidu1997&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak&theme=github_dark" />
+</div>
+
 > 💡 *"Automate everything, monitor everything, break nothing."*
 
 Thanks for visiting! ⭐ Feel free to explore my repos and connect.
