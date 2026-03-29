@@ -29,7 +29,7 @@
 
 ## 💼 Experience
 
-- 🏢 **[Web Synergies]** – *[DevOps Engineer]*
+- 🏢 **Web Synergies** – *DevOps Engineer*
   - Automated AWS infrastructure using Terraform & Ansible
   - Designed and maintained Jenkins CI/CD pipelines
   - Managed Kubernetes (EKS) workloads with auto-scaling and optimized resource utilization
@@ -37,10 +37,25 @@
   - Built Prometheus & Grafana dashboards for proactive monitoring and alerting
   - Automated Linux administration with Bash & Python
 
-- 🏢 **[HCL Tech]** – *[Analyst]*
+- 🏢 **HCL Tech** – *Analyst*
   [Brief description — e.g., Led cloud automation projects using Terraform and Docker on AWS, achieving 40% reduction in deployment time.]
 
 ---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=akhilnaidu1997&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=akhilnaidu1997&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhilnaidu1997/akhilnaidu1997/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhilnaidu1997/akhilnaidu1997/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akhilnaidu1997/akhilnaidu1997/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 > 💡 *"Automate everything, monitor everything, break nothing."*
 
