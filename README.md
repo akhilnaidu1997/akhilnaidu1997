@@ -81,7 +81,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilnaidu1997&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilnaidu1997&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180" />
+</div>
+
+<div align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnaidu1997&layout=compact&theme=dark&hide_border=false" height="150" />
 </div>
 
 > 💡 *"Automate everything, monitor everything, break nothing."*
