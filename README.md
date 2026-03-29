@@ -19,7 +19,7 @@
 - CI/CD: Jenkins, GitHub Actions
 - Containers: Docker, Kubernetes (EKS)
 - IaC: Terraform, Ansible
-- Monitoring: Prometheus, Grafana, CloudWatch, Azure Monitor
+- Monitoring: Prometheus, Grafana, CloudWatch
 - Security: SonarQube
 - SCM: Git, GitHub
 - OS: Linux (RHEL/Ubuntu), Windows
