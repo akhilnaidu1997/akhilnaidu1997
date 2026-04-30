@@ -19,11 +19,11 @@
 - CI/CD: Jenkins, GitHub Actions
 - Containers: Docker, Kubernetes (EKS)
 - IaC: Terraform, Ansible
-- Monitoring: Prometheus, Grafana, CloudWatch
+- Monitoring: Prometheus, Grafana, ELK
 - Security: SonarQube
 - SCM: Git, GitHub
 - OS: Linux (RHEL/Ubuntu), Windows
-- Scripting: Bash, Shell, Python
+- Scripting: Shell
 
 ---
 
@@ -38,7 +38,13 @@
   - Automated Linux administration with Bash & Python
 
 - 🏢 **HCL Tech** – *Analyst*
-  [Brief description — e.g., Led cloud automation projects using Terraform and Docker on AWS, achieving 40% reduction in deployment time.]
+  - Resolved OS, network and application incidents for enterprise environments within SLA timelines
+  - Managed user accounts and access permissions using Active Directory and IAM
+  - Performed remote troubleshooting via RDP and SSH across Windows and Linux systems
+  - Handled software installation, patching and system updates to keep environments secure and stable
+  - Troubleshot Microsoft stack — Outlook, Teams, SharePoint, Skype for Business and OWA
+  - Worked within structured incident management systems, prioritising tickets by severity and collaborating with onsite teams for hardware issues
+  - Contributed to knowledge base documentation and runbooks to reduce repeat incidents
 
 ---
 
