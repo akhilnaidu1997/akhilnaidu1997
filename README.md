@@ -38,14 +38,13 @@
   - Automated Linux administration with Bash & Python
 
 - 🏢 **HCL Tech** – *Analyst*
-  - Resolved OS, network and application incidents for enterprise environments within SLA timelines
-  - Managed user accounts and access permissions using Active Directory and IAM
-  - Performed remote troubleshooting via RDP and SSH across Windows and Linux systems
-  - Handled software installation, patching and system updates to keep environments secure and stable
-  - Troubleshot Microsoft stack — Outlook, Teams, SharePoint, Skype for Business and OWA
-  - Worked within structured incident management systems, prioritising tickets by severity and collaborating with onsite teams for hardware issues
-  - Contributed to knowledge base documentation and runbooks to reduce repeat incidents
-
+  - Supported AWS infrastructure management using EC2, IAM, VPC, S3, and RDS services. 
+  - Automated deployments and server configuration using Ansible and Shell scripting. 
+  - Managed Docker containers and Kubernetes workloads across development and production 
+environments. 
+  - Supported infrastructure provisioning and resource management through Terraform. 
+  - Developed and maintained Helm charts for Kubernetes application deployments. 
+- Monitored production systems using Prometheus and Grafana dashboards. 
 ---
 
 ###
