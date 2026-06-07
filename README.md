@@ -9,7 +9,7 @@
 
 ---
 
-**DevOps Engineer** with 5+ years of overall IT experience, including 3+ years specializing in DevOps practices such as CI/CD, cloud infrastructure, and automation. Skilled in Terraform, Docker, Kubernetes, and monitoring tools, with a strong focus on building scalable, reliable, and efficient systems.
+**DevOps Engineer** with 5+ years of overall IT experience, including 4 years specializing in DevOps practices such as CI/CD, cloud infrastructure, and automation. Skilled in Terraform, Docker, Kubernetes, and monitoring tools, with a strong focus on building scalable, reliable, and efficient systems.
 
 ---
 
