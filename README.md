@@ -27,24 +27,25 @@
 
 ---
 
+🔧 What I Do
+🛠️ Build and manage infrastructure on AWS using Terraform for repeatable, secure provisioning.
+🚀 Design high-performance CI/CD pipelines using GitHub Actions, Jenkins reducing delivery friction.
+📃️ Manage codebases and collaboration with GitHub ensuring streamlined source control and peer workflows.
+🤖 Automate infrastructure and operational tasks using Linux, Shell scripting improving consistency and speed.
+🧪 Enforce quality with SonarQube, and manage artifacts with Nexus Artifactory.
+🔐 Secure cloud environments using IAM, RBAC ensuring compliance and access control.
+📈 Ensure observability and performance with Grafana, Prometheus, and EKS minimizing downtime.
+
 ## 💼 Experience
 
 - 🏢 **Web Synergies** – *DevOps Engineer*
-  - Automated AWS infrastructure using Terraform & Ansible
-  - Designed and maintained Jenkins CI/CD pipelines
-  - Managed Kubernetes (EKS) workloads with auto-scaling and optimized resource utilization
-  - Implemented blue-green deployments, minimizing downtime during releases
-  - Built Prometheus & Grafana dashboards for proactive monitoring and alerting
-  - Automated Linux administration with Bash & Python
+  • Built end-to-end CI/CD pipelines using Jenkins, SonarQube, Docker, Kubernetes, Nexus, 
+  Helm, and Argo 
+  • Automated build, test, security scanning, artifact management, and deployments across 
+  environments.
 
 - 🏢 **HCL Tech** – *Analyst*
-  - Supported AWS infrastructure management using EC2, IAM, VPC, S3, and RDS services. 
-  - Automated deployments and server configuration using Ansible and Shell scripting. 
-  - Managed Docker containers and Kubernetes workloads across development and production 
-environments. 
-  - Supported infrastructure provisioning and resource management through Terraform. 
-  - Developed and maintained Helm charts for Kubernetes application deployments. 
-- Monitored production systems using Prometheus and Grafana dashboards. 
+  • Led cloud automation projects using Terraform, Docker, and CI/CD tools (GitHub Actions, Jenkins) on AWS, resulting in a 40% deployment time reduction.
 ---
 
 ###
