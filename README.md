@@ -28,13 +28,13 @@
 ---
 
 🔧 What I Do
-🛠️ Build and manage infrastructure on AWS using Terraform for repeatable, secure provisioning.
-🚀 Design high-performance CI/CD pipelines using GitHub Actions, Jenkins reducing delivery friction.
-📃️ Manage codebases and collaboration with GitHub ensuring streamlined source control and peer workflows.
-🤖 Automate infrastructure and operational tasks using Linux, Shell scripting improving consistency and speed.
-🧪 Enforce quality with SonarQube, and manage artifacts with Nexus Artifactory.
-🔐 Secure cloud environments using IAM, RBAC ensuring compliance and access control.
-📈 Ensure observability and performance with Grafana, Prometheus, and EKS minimizing downtime.
+- 🛠️ Build and manage infrastructure on AWS using Terraform for repeatable, secure provisioning.
+- 🚀 Design high-performance CI/CD pipelines using GitHub Actions, Jenkins reducing delivery friction.
+- 📃️ Manage codebases and collaboration with GitHub ensuring streamlined source control and peer workflows.
+- 🤖 Automate infrastructure and operational tasks using Linux, Shell scripting improving consistency and speed.
+- 🧪 Enforce quality with SonarQube, and manage artifacts with Nexus Artifactory.
+- 🔐 Secure cloud environments using IAM, RBAC ensuring compliance and access control.
+- 📈 Ensure observability and performance with Grafana, Prometheus, and EKS minimizing downtime.
 
 ## 💼 Experience
 
